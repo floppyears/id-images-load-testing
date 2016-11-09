@@ -1,0 +1,5 @@
+api_path = "/v1/idimages/"
+osu_id_with_image = "012345678"
+osu_id_no_image = "012345678"
+user = "super"
+password = "secret"
