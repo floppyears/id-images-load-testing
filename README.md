@@ -12,4 +12,4 @@ Next, use these commands to build and run the container. Replace target_host wit
         -v "$PWD"/config.py:/config.py:ro \
         idimages-load-testing
 
-Go to localhost:8089 in a web browser to start load testing using the Locust UI. More information on Locust can be found on their [website](http://locust.io)
+Go to localhost:8089 in a web browser to start load testing using the Locust UI. More information on Locust can be found on their [website](http://locust.io).
